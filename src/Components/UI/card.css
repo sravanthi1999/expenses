@@ -1,0 +1,7 @@
+.card {
+  border-radius: 20px;
+  box-shadow: 0 2px 12px;
+  /* display: flex; */
+  /* overflow: hidden; */
+  /* flex-direction: column; */
+}
